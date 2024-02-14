@@ -10,11 +10,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
-        android:text="Hello World of Programming this is Sunil Chaudhary.
-                      I am her to build Android Application"
-        android:textsize="25sp"
-        android:textcolor="black"
-        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/Red"
+        android:textStyle="italic"
+        android:text="hello World of Programming this is Sunil Chaudhary. I am her to build Android Application"
         />
 
 
