@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/gradient"
+    android:layout_height="match_parent"
+    android:padding="30sp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="gradent 2"
+        android:layout_marginTop="100sp"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="196dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="200sp"
+        android:text="gradent 3"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="196dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="gradent 1"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="196dp"/>
+
+</RelativeLayout>
