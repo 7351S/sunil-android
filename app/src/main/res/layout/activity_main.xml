@@ -30,10 +30,53 @@
         tools:layout_editor_absoluteX="71dp"
         tools:layout_editor_absoluteY="196dp"/>
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginTop="00sp"
         android:text="gradent 1"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="196dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="300sp"
+        android:text="gradent 4"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="196dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="400sp"
+        android:text="gradent 5"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="196dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="500sp"
+        android:text="gradent 6"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="196dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="600sp"
+        android:text="gradent 7"
         android:textColor="@color/black"
         android:textSize="25sp"
         android:textStyle="italic"
